@@ -81,4 +81,6 @@ int main() {
 
     //show time
     aClock.checkTime(); 
+
+    return 0; 
 }

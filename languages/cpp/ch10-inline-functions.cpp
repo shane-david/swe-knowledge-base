@@ -62,4 +62,5 @@ int main() {
     //print out new person
     cout << "You are " << you.getName() << ". You are " << you.getAge() << " years old." << endl; 
 
+    return 0; 
 }
